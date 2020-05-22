@@ -1,0 +1,19 @@
+MAIL_DRIVER=smtp
+MAIL_HOST=smtp.mailtrap.io
+MAIL_PORT=2525
+MAIL_USERNAME=78003d7306df51
+MAIL_PASSWORD=ccbe6f6926f7f1
+MAIL_ENCRYPTION=null
+
+
+May 7
+1. Remove "success Redirecting..."
+2. Add this to the username error message: "The username may only contain..."
+3. Follow and unfollow function is not working when you view the feed through categories.
+4. User shouldn't be able to follow themselves....
+5. Post doesn't post successfully without selecting the background.
+6. when in the home page, main feed, if i click the comment button, it does take me to the post but it does not give the unique post link..... (actually that was modal, i changed the design.)
+7. I can't find where the user can delete his own reply or comment.
+8. Adding a new comment is great. However, replying to a comment does not apply....
+
+May 8
